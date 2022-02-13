@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-
+~~~
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -147,9 +147,9 @@ function myClickEvent(e){
         </div>
 </body>
 </html>
-
+~~~
 ## OUTPUT:
-![output](.//PAINT.png)
+![output](.//paint.png)
 
 ## Result:
 
